@@ -1,0 +1,98 @@
+{
+  "videos": [
+    {
+      "title": "`A little miss sunshine`",
+      "coverImg": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https://i.pinimg.com/originals/6d/aa/9e/6daa9e366bcb1285d9085083c4bbfbee.jpg",
+      "videoUrl": "https://www.youtube.com/embed/tGnXrGLUg4Y?autoplay=1",
+      "id": 1
+    },
+    {
+      "title": "I was free in that moment",
+      "coverImg": "https://metadata-static.plex.tv/extras/iva/14811/7ef47d325d59eea2928d40c9ea19aa0b.jpg",
+      "videoUrl": "https://www.youtube.com/embed/pBJvQ&t=29s?autoplay=1",
+      "id": 2
+    },
+    {
+      "title": "A little women",
+      "coverImg": "https://s.turbifycdn.com/aah/artbook/a-beautiful-illustrated-facsimile-of-little-women-just-in-time-for-greta-gerwig-s-december-film-adaptation-30.jpg",
+      "videoUrl": "https://www.youtube.com/embed/VzNx0&t=30s?autoplay=1",
+      "id": 3
+    },
+    {
+      "title": "Pakora x Chips",
+      "coverImg": "https://www.indiafoodnetwork.in/h-upload/2021/06/17/494244-untitled-design-3.webp",
+      "videoUrl": "https://www.youtube.com/embed/bgq5rNoF5GA?autoplay=1",
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "title": "ART",
+      "videos": [
+        {
+          "title": "A little women",
+          "coverImg": "https://s.turbifycdn.com/aah/artbook/a-beautiful-illustrated-facsimile-of-little-women-just-in-time-for-greta-gerwig-s-december-film-adaptation-30.jpg",
+          "videoUrl": "https://www.youtube.com/embed/VzNx0&t=30s?autoplay=1",
+          "id": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "COOKING",
+      "videos": [
+        {
+          "title": "Pakora x Chips",
+          "coverImg": "https://www.indiafoodnetwork.in/h-upload/2021/06/17/494244-untitled-design-3.webp",
+          "videoUrl": "https://www.youtube.com/embed/bgq5rNoF5GA?autoplay=1",
+          "id": 4
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "MOVIES",
+      "videos": [
+        {
+          "title": "`A little miss sunshine`",
+          "coverImg": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https://i.pinimg.com/originals/6d/aa/9e/6daa9e366bcb1285d9085083c4bbfbee.jpg",
+          "videoUrl": "https://www.youtube.com/embed/tGnXrGLUg4Y?autoplay=1",
+          "id": 1
+        },
+        {
+          "title": "I was free in that moment",
+          "coverImg": "https://metadata-static.plex.tv/extras/iva/14811/7ef47d325d59eea2928d40c9ea19aa0b.jpg",
+          "videoUrl": "https://www.youtube.com/embed/pBJvQ&t=29s?autoplay=1",
+          "id": 2
+        }
+      ]
+    }
+  ],
+  "histories": [
+    {
+      "title": "`A little miss sunshine`",
+      "videoUrl": "https://www.youtube.com/embed/tGnXrGLUg4Y?autoplay=1",
+      "time": "28-12-2023, 1:32 PM",
+      "id": 1
+    },
+    {
+      "title": "I was free in that moment",
+      "videoUrl": "https://www.youtube.com/embed/pBJvQ&t=29s?autoplay=1",
+      "time": "28-12-2023, 1:32 PM",
+      "id": 2
+    },
+    {
+      "title": "Pakora x Chips",
+      "videoUrl": "https://www.youtube.com/embed/bgq5rNoF5GA?autoplay=1",
+      "time": "28-12-2023, 1:32 PM",
+      "id": 3
+    },
+    {
+      "title": "A little women",
+      "videoUrl": "https://www.youtube.com/embed/VzNx0&t=30s?autoplay=1",
+      "time": "28-12-2023, 1:32 PM",
+      "id": 4
+    }
+  ]
+}
